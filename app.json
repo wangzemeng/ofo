@@ -3,7 +3,10 @@
     "pages/index/index",
     "pages/scanCode/scanCode",
     "pages/billing/billing",
-    "pages/warn/warn"
+    "pages/warn/warn",
+    "pages/my/my",
+    "pages/wallet/wallet",
+    "pages/charge/charge"
   ],
   "window" : {
     "navigationBarBackgroundColor": "#b9dd08",

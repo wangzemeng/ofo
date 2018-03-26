@@ -45,6 +45,24 @@
 					"name": "warn",
 					"pathName": "pages/warn/warn",
 					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "my",
+					"pathName": "pages/my/my",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "wallet",
+					"pathName": "pages/wallet/wallet",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "charge",
+					"pathName": "pages/charge/charge",
+					"query": ""
 				}
 			]
 		}
